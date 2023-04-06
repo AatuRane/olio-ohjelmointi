@@ -1,0 +1,15 @@
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitus3\Olioharjoitus3\bin\Debug\net6.0\Olioharjoitus3.exe
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitus3\Olioharjoitus3\bin\Debug\net6.0\Olioharjoitus3.deps.json
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitus3\Olioharjoitus3\bin\Debug\net6.0\Olioharjoitus3.runtimeconfig.json
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitus3\Olioharjoitus3\bin\Debug\net6.0\Olioharjoitus3.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitus3\Olioharjoitus3\bin\Debug\net6.0\Olioharjoitus3.pdb
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitus3\Olioharjoitus3\obj\Debug\net6.0\Olioharjoitus3.csproj.AssemblyReference.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitus3\Olioharjoitus3\obj\Debug\net6.0\Olioharjoitus3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitus3\Olioharjoitus3\obj\Debug\net6.0\Olioharjoitus3.AssemblyInfoInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitus3\Olioharjoitus3\obj\Debug\net6.0\Olioharjoitus3.AssemblyInfo.cs
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitus3\Olioharjoitus3\obj\Debug\net6.0\Olioharjoitus3.csproj.CoreCompileInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitus3\Olioharjoitus3\obj\Debug\net6.0\Olioharjoitus3.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitus3\Olioharjoitus3\obj\Debug\net6.0\refint\Olioharjoitus3.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitus3\Olioharjoitus3\obj\Debug\net6.0\Olioharjoitus3.pdb
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitus3\Olioharjoitus3\obj\Debug\net6.0\Olioharjoitus3.genruntimeconfig.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitus3\Olioharjoitus3\obj\Debug\net6.0\ref\Olioharjoitus3.dll

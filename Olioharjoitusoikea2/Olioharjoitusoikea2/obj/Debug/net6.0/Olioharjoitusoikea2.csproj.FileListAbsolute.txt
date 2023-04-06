@@ -1,0 +1,15 @@
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitusoikea2\Olioharjoitusoikea2\bin\Debug\net6.0\Olioharjoitusoikea2.exe
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitusoikea2\Olioharjoitusoikea2\bin\Debug\net6.0\Olioharjoitusoikea2.deps.json
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitusoikea2\Olioharjoitusoikea2\bin\Debug\net6.0\Olioharjoitusoikea2.runtimeconfig.json
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitusoikea2\Olioharjoitusoikea2\bin\Debug\net6.0\Olioharjoitusoikea2.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitusoikea2\Olioharjoitusoikea2\bin\Debug\net6.0\Olioharjoitusoikea2.pdb
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitusoikea2\Olioharjoitusoikea2\obj\Debug\net6.0\Olioharjoitusoikea2.csproj.AssemblyReference.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitusoikea2\Olioharjoitusoikea2\obj\Debug\net6.0\Olioharjoitusoikea2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitusoikea2\Olioharjoitusoikea2\obj\Debug\net6.0\Olioharjoitusoikea2.AssemblyInfoInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitusoikea2\Olioharjoitusoikea2\obj\Debug\net6.0\Olioharjoitusoikea2.AssemblyInfo.cs
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitusoikea2\Olioharjoitusoikea2\obj\Debug\net6.0\Olioharjoitusoikea2.csproj.CoreCompileInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitusoikea2\Olioharjoitusoikea2\obj\Debug\net6.0\Olioharjoitusoikea2.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitusoikea2\Olioharjoitusoikea2\obj\Debug\net6.0\refint\Olioharjoitusoikea2.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitusoikea2\Olioharjoitusoikea2\obj\Debug\net6.0\Olioharjoitusoikea2.pdb
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitusoikea2\Olioharjoitusoikea2\obj\Debug\net6.0\Olioharjoitusoikea2.genruntimeconfig.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Olioharjoitusoikea2\Olioharjoitusoikea2\obj\Debug\net6.0\ref\Olioharjoitusoikea2.dll

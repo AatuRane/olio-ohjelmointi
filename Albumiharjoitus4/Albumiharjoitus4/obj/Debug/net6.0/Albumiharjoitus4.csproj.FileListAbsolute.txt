@@ -1,0 +1,15 @@
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Albumiharjoitus4\Albumiharjoitus4\bin\Debug\net6.0\Albumiharjoitus4.exe
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Albumiharjoitus4\Albumiharjoitus4\bin\Debug\net6.0\Albumiharjoitus4.deps.json
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Albumiharjoitus4\Albumiharjoitus4\bin\Debug\net6.0\Albumiharjoitus4.runtimeconfig.json
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Albumiharjoitus4\Albumiharjoitus4\bin\Debug\net6.0\Albumiharjoitus4.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Albumiharjoitus4\Albumiharjoitus4\bin\Debug\net6.0\Albumiharjoitus4.pdb
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Albumiharjoitus4\Albumiharjoitus4\obj\Debug\net6.0\Albumiharjoitus4.csproj.AssemblyReference.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Albumiharjoitus4\Albumiharjoitus4\obj\Debug\net6.0\Albumiharjoitus4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Albumiharjoitus4\Albumiharjoitus4\obj\Debug\net6.0\Albumiharjoitus4.AssemblyInfoInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Albumiharjoitus4\Albumiharjoitus4\obj\Debug\net6.0\Albumiharjoitus4.AssemblyInfo.cs
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Albumiharjoitus4\Albumiharjoitus4\obj\Debug\net6.0\Albumiharjoitus4.csproj.CoreCompileInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Albumiharjoitus4\Albumiharjoitus4\obj\Debug\net6.0\Albumiharjoitus4.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Albumiharjoitus4\Albumiharjoitus4\obj\Debug\net6.0\refint\Albumiharjoitus4.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Albumiharjoitus4\Albumiharjoitus4\obj\Debug\net6.0\Albumiharjoitus4.pdb
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Albumiharjoitus4\Albumiharjoitus4\obj\Debug\net6.0\Albumiharjoitus4.genruntimeconfig.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Albumiharjoitus4\Albumiharjoitus4\obj\Debug\net6.0\ref\Albumiharjoitus4.dll

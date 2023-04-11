@@ -1,0 +1,15 @@
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\oliotehtävä5\oliotehtävä5\bin\Debug\net6.0\oliotehtävä5.exe
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\oliotehtävä5\oliotehtävä5\bin\Debug\net6.0\oliotehtävä5.deps.json
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\oliotehtävä5\oliotehtävä5\bin\Debug\net6.0\oliotehtävä5.runtimeconfig.json
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\oliotehtävä5\oliotehtävä5\bin\Debug\net6.0\oliotehtävä5.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\oliotehtävä5\oliotehtävä5\bin\Debug\net6.0\oliotehtävä5.pdb
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\oliotehtävä5\oliotehtävä5\obj\Debug\net6.0\oliotehtävä5.csproj.AssemblyReference.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\oliotehtävä5\oliotehtävä5\obj\Debug\net6.0\oliotehtävä5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\oliotehtävä5\oliotehtävä5\obj\Debug\net6.0\oliotehtävä5.AssemblyInfoInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\oliotehtävä5\oliotehtävä5\obj\Debug\net6.0\oliotehtävä5.AssemblyInfo.cs
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\oliotehtävä5\oliotehtävä5\obj\Debug\net6.0\oliotehtävä5.csproj.CoreCompileInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\oliotehtävä5\oliotehtävä5\obj\Debug\net6.0\oliotehtävä5.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\oliotehtävä5\oliotehtävä5\obj\Debug\net6.0\refint\oliotehtävä5.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\oliotehtävä5\oliotehtävä5\obj\Debug\net6.0\oliotehtävä5.pdb
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\oliotehtävä5\oliotehtävä5\obj\Debug\net6.0\oliotehtävä5.genruntimeconfig.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\oliotehtävä5\oliotehtävä5\obj\Debug\net6.0\ref\oliotehtävä5.dll

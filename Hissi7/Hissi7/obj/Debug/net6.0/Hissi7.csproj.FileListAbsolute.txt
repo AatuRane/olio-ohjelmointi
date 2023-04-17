@@ -1,0 +1,15 @@
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Hissi7\Hissi7\bin\Debug\net6.0\Hissi7.exe
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Hissi7\Hissi7\bin\Debug\net6.0\Hissi7.deps.json
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Hissi7\Hissi7\bin\Debug\net6.0\Hissi7.runtimeconfig.json
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Hissi7\Hissi7\bin\Debug\net6.0\Hissi7.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Hissi7\Hissi7\bin\Debug\net6.0\Hissi7.pdb
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Hissi7\Hissi7\obj\Debug\net6.0\Hissi7.csproj.AssemblyReference.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Hissi7\Hissi7\obj\Debug\net6.0\Hissi7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Hissi7\Hissi7\obj\Debug\net6.0\Hissi7.AssemblyInfoInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Hissi7\Hissi7\obj\Debug\net6.0\Hissi7.AssemblyInfo.cs
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Hissi7\Hissi7\obj\Debug\net6.0\Hissi7.csproj.CoreCompileInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Hissi7\Hissi7\obj\Debug\net6.0\Hissi7.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Hissi7\Hissi7\obj\Debug\net6.0\refint\Hissi7.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Hissi7\Hissi7\obj\Debug\net6.0\Hissi7.pdb
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Hissi7\Hissi7\obj\Debug\net6.0\Hissi7.genruntimeconfig.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Hissi7\Hissi7\obj\Debug\net6.0\ref\Hissi7.dll

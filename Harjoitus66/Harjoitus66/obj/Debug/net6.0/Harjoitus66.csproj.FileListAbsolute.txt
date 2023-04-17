@@ -1,0 +1,15 @@
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Harjoitus66\Harjoitus66\bin\Debug\net6.0\Harjoitus66.exe
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Harjoitus66\Harjoitus66\bin\Debug\net6.0\Harjoitus66.deps.json
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Harjoitus66\Harjoitus66\bin\Debug\net6.0\Harjoitus66.runtimeconfig.json
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Harjoitus66\Harjoitus66\bin\Debug\net6.0\Harjoitus66.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Harjoitus66\Harjoitus66\bin\Debug\net6.0\Harjoitus66.pdb
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Harjoitus66\Harjoitus66\obj\Debug\net6.0\Harjoitus66.csproj.AssemblyReference.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Harjoitus66\Harjoitus66\obj\Debug\net6.0\Harjoitus66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Harjoitus66\Harjoitus66\obj\Debug\net6.0\Harjoitus66.AssemblyInfoInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Harjoitus66\Harjoitus66\obj\Debug\net6.0\Harjoitus66.AssemblyInfo.cs
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Harjoitus66\Harjoitus66\obj\Debug\net6.0\Harjoitus66.csproj.CoreCompileInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Harjoitus66\Harjoitus66\obj\Debug\net6.0\Harjoitus66.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Harjoitus66\Harjoitus66\obj\Debug\net6.0\refint\Harjoitus66.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Harjoitus66\Harjoitus66\obj\Debug\net6.0\Harjoitus66.pdb
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Harjoitus66\Harjoitus66\obj\Debug\net6.0\Harjoitus66.genruntimeconfig.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Harjoitus66\Harjoitus66\obj\Debug\net6.0\ref\Harjoitus66.dll

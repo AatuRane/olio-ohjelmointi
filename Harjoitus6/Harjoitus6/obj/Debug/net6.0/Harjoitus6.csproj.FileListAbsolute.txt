@@ -1,0 +1,5 @@
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Harjoitus6\Harjoitus6\obj\Debug\net6.0\Harjoitus6.csproj.AssemblyReference.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Harjoitus6\Harjoitus6\obj\Debug\net6.0\Harjoitus6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Harjoitus6\Harjoitus6\obj\Debug\net6.0\Harjoitus6.AssemblyInfoInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Harjoitus6\Harjoitus6\obj\Debug\net6.0\Harjoitus6.AssemblyInfo.cs
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Harjoitus6\Harjoitus6\obj\Debug\net6.0\Harjoitus6.csproj.CoreCompileInputs.cache

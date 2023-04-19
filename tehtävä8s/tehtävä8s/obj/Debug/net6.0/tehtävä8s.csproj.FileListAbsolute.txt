@@ -1,0 +1,15 @@
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\tehtävä8s\tehtävä8s\bin\Debug\net6.0\tehtävä8s.exe
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\tehtävä8s\tehtävä8s\bin\Debug\net6.0\tehtävä8s.deps.json
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\tehtävä8s\tehtävä8s\bin\Debug\net6.0\tehtävä8s.runtimeconfig.json
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\tehtävä8s\tehtävä8s\bin\Debug\net6.0\tehtävä8s.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\tehtävä8s\tehtävä8s\bin\Debug\net6.0\tehtävä8s.pdb
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\tehtävä8s\tehtävä8s\obj\Debug\net6.0\tehtävä8s.csproj.AssemblyReference.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\tehtävä8s\tehtävä8s\obj\Debug\net6.0\tehtävä8s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\tehtävä8s\tehtävä8s\obj\Debug\net6.0\tehtävä8s.AssemblyInfoInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\tehtävä8s\tehtävä8s\obj\Debug\net6.0\tehtävä8s.AssemblyInfo.cs
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\tehtävä8s\tehtävä8s\obj\Debug\net6.0\tehtävä8s.csproj.CoreCompileInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\tehtävä8s\tehtävä8s\obj\Debug\net6.0\tehtävä8s.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\tehtävä8s\tehtävä8s\obj\Debug\net6.0\refint\tehtävä8s.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\tehtävä8s\tehtävä8s\obj\Debug\net6.0\tehtävä8s.pdb
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\tehtävä8s\tehtävä8s\obj\Debug\net6.0\tehtävä8s.genruntimeconfig.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\tehtävä8s\tehtävä8s\obj\Debug\net6.0\ref\tehtävä8s.dll

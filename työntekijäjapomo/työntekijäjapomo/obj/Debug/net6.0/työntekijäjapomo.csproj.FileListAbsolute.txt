@@ -1,0 +1,5 @@
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\työntekijäjapomo\työntekijäjapomo\obj\Debug\net6.0\työntekijäjapomo.csproj.AssemblyReference.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\työntekijäjapomo\työntekijäjapomo\obj\Debug\net6.0\työntekijäjapomo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\työntekijäjapomo\työntekijäjapomo\obj\Debug\net6.0\työntekijäjapomo.AssemblyInfoInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\työntekijäjapomo\työntekijäjapomo\obj\Debug\net6.0\työntekijäjapomo.AssemblyInfo.cs
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\työntekijäjapomo\työntekijäjapomo\obj\Debug\net6.0\työntekijäjapomo.csproj.CoreCompileInputs.cache

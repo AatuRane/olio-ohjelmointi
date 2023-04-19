@@ -1,0 +1,15 @@
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\ikäkysy\ikäkysy\bin\Debug\net6.0\ikäkysy.exe
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\ikäkysy\ikäkysy\bin\Debug\net6.0\ikäkysy.deps.json
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\ikäkysy\ikäkysy\bin\Debug\net6.0\ikäkysy.runtimeconfig.json
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\ikäkysy\ikäkysy\bin\Debug\net6.0\ikäkysy.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\ikäkysy\ikäkysy\bin\Debug\net6.0\ikäkysy.pdb
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\ikäkysy\ikäkysy\obj\Debug\net6.0\ikäkysy.csproj.AssemblyReference.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\ikäkysy\ikäkysy\obj\Debug\net6.0\ikäkysy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\ikäkysy\ikäkysy\obj\Debug\net6.0\ikäkysy.AssemblyInfoInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\ikäkysy\ikäkysy\obj\Debug\net6.0\ikäkysy.AssemblyInfo.cs
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\ikäkysy\ikäkysy\obj\Debug\net6.0\ikäkysy.csproj.CoreCompileInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\ikäkysy\ikäkysy\obj\Debug\net6.0\ikäkysy.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\ikäkysy\ikäkysy\obj\Debug\net6.0\refint\ikäkysy.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\ikäkysy\ikäkysy\obj\Debug\net6.0\ikäkysy.pdb
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\ikäkysy\ikäkysy\obj\Debug\net6.0\ikäkysy.genruntimeconfig.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\ikäkysy\ikäkysy\obj\Debug\net6.0\ref\ikäkysy.dll

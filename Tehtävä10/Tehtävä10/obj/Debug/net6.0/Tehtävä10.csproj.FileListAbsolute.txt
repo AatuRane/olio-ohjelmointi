@@ -1,0 +1,15 @@
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Tehtävä10\Tehtävä10\obj\Debug\net6.0\Tehtävä10.csproj.AssemblyReference.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Tehtävä10\Tehtävä10\obj\Debug\net6.0\Tehtävä10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Tehtävä10\Tehtävä10\obj\Debug\net6.0\Tehtävä10.AssemblyInfoInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Tehtävä10\Tehtävä10\obj\Debug\net6.0\Tehtävä10.AssemblyInfo.cs
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Tehtävä10\Tehtävä10\obj\Debug\net6.0\Tehtävä10.csproj.CoreCompileInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Tehtävä10\Tehtävä10\bin\Debug\net6.0\Tehtävä10.exe
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Tehtävä10\Tehtävä10\bin\Debug\net6.0\Tehtävä10.deps.json
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Tehtävä10\Tehtävä10\bin\Debug\net6.0\Tehtävä10.runtimeconfig.json
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Tehtävä10\Tehtävä10\bin\Debug\net6.0\Tehtävä10.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Tehtävä10\Tehtävä10\bin\Debug\net6.0\Tehtävä10.pdb
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Tehtävä10\Tehtävä10\obj\Debug\net6.0\Tehtävä10.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Tehtävä10\Tehtävä10\obj\Debug\net6.0\refint\Tehtävä10.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Tehtävä10\Tehtävä10\obj\Debug\net6.0\Tehtävä10.pdb
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Tehtävä10\Tehtävä10\obj\Debug\net6.0\Tehtävä10.genruntimeconfig.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Tehtävä10\Tehtävä10\obj\Debug\net6.0\ref\Tehtävä10.dll

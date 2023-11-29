@@ -1,0 +1,20 @@
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Kauppalista wpf\Kauppalista wpf\bin\Debug\net6.0-windows\Kauppalista wpf.exe
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Kauppalista wpf\Kauppalista wpf\bin\Debug\net6.0-windows\Kauppalista wpf.deps.json
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Kauppalista wpf\Kauppalista wpf\bin\Debug\net6.0-windows\Kauppalista wpf.runtimeconfig.json
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Kauppalista wpf\Kauppalista wpf\bin\Debug\net6.0-windows\Kauppalista wpf.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Kauppalista wpf\Kauppalista wpf\bin\Debug\net6.0-windows\Kauppalista wpf.pdb
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Kauppalista wpf\Kauppalista wpf\obj\Debug\net6.0-windows\Kauppalista wpf.csproj.AssemblyReference.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Kauppalista wpf\Kauppalista wpf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Kauppalista wpf\Kauppalista wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Kauppalista wpf\Kauppalista wpf\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Kauppalista wpf\Kauppalista wpf\obj\Debug\net6.0-windows\Kauppalista wpf_MarkupCompile.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Kauppalista wpf\Kauppalista wpf\obj\Debug\net6.0-windows\Kauppalista wpf.g.resources
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Kauppalista wpf\Kauppalista wpf\obj\Debug\net6.0-windows\Kauppalista wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Kauppalista wpf\Kauppalista wpf\obj\Debug\net6.0-windows\Kauppalista wpf.AssemblyInfoInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Kauppalista wpf\Kauppalista wpf\obj\Debug\net6.0-windows\Kauppalista wpf.AssemblyInfo.cs
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Kauppalista wpf\Kauppalista wpf\obj\Debug\net6.0-windows\Kauppalista wpf.csproj.CoreCompileInputs.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Kauppalista wpf\Kauppalista wpf\obj\Debug\net6.0-windows\Kauppalista wpf.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Kauppalista wpf\Kauppalista wpf\obj\Debug\net6.0-windows\refint\Kauppalista wpf.dll
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Kauppalista wpf\Kauppalista wpf\obj\Debug\net6.0-windows\Kauppalista wpf.pdb
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Kauppalista wpf\Kauppalista wpf\obj\Debug\net6.0-windows\Kauppalista wpf.genruntimeconfig.cache
+C:\Users\aatu.rantanen\source\repos\AatuRane\olio-ohjelmointi\Kauppalista wpf\Kauppalista wpf\obj\Debug\net6.0-windows\ref\Kauppalista wpf.dll
